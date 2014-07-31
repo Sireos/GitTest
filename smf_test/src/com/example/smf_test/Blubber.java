@@ -1,0 +1,9 @@
+package com.example.smf_test;
+
+import android.util.Log;
+
+public class Blubber {
+public Blubber() {
+	Log.i("Blubber", "blubBlub");
+}
+}
