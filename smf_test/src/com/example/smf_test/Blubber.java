@@ -4,9 +4,10 @@ import android.util.Log;
 
 public class Blubber {
 public Blubber() {
+while(true){
 	Log.i("Blubber", "blubBlub");
-	Log.i("Blubber", "more blub!");
-	Log.i("Blubber", "even more blub!");
+	
+}
 
 }
 
